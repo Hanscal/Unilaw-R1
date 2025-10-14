@@ -36,5 +36,6 @@ If you find our work useful for your research, please kindly cite our paper as f
       title={Unilaw-R1: A Large Language Model for Legal Reasoning with Reinforcement Learning and Iterative Inference}, 
       author={Hua Cai, Shuang Zhao, Liang Zhang, Xuli Shen, Qing Xu, Weilin Shen, Zihao Wen, Tianke Ban},
       year={2025},
+      url={https://arxiv.org/abs/2510.10072}
 }
 ```
