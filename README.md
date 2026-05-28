@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ### checkpoint
 We have open-sourced the **Unilaw-R1** model weights solely for academic exploration only.  
 **This is a low‑cost, low‑parameter baseline model, not a production-grade model.** 
-The weights are available for download from [Baidu Netdisk]([https://pan.baidu.com/s/1xNt3qFFUgo5xcTOI9wS5NA?pwd=3528]) (passcode: **3528**).   
+The weights are available for download from [Baidu Netdisk](https://pan.baidu.com/s/1xNt3qFFUgo5xcTOI9wS5NA?pwd=3528) (passcode: **3528**).   
 
 ### To-Do (Coming Soon ~)
  - release inference code.
