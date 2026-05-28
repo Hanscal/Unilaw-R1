@@ -26,9 +26,9 @@ pip install -r requirements.txt
     - [LexEval](https://github.com/cshaitao/lexeval)
 
 ### checkpoint
-We have open-sourced the **Unilaw-R1** model weights to facilitate research and application in legal reasoning. The released the model weights of **Unilaw-R1** for academic exploration only.  
-**This is a low‑cost, low‑parameter baseline model, not a production‑grade legal system.** 
-The weights are available for download from [Baidu Netdisk](https://pan.baidu.com/s/1V-lh4AnRsN7zuHuOtaUraw) (passcode: **3521**).   
+We have open-sourced the **Unilaw-R1** model weights solely for academic exploration only.  
+**This is a low‑cost, low‑parameter baseline model, not a production-grade model.** 
+The weights are available for download from [Baidu Netdisk]([https://pan.baidu.com/s/1xNt3qFFUgo5xcTOI9wS5NA?pwd=3528]) (passcode: **3528**).   
 
 ### To-Do (Coming Soon ~)
  - release inference code.
@@ -38,9 +38,10 @@ The weights are available for download from [Baidu Netdisk](https://pan.baidu.co
 If you find our work useful for your research, please kindly cite our paper as follows:
 ```
 @article{unilaw-r12025,
-      title={Unilaw-R1: A Large Language Model for Legal Reasoning with Reinforcement Learning and Iterative Inference}, 
-      author={Hua Cai, Shuang Zhao, Liang Zhang, Xuli Shen, Qing Xu, Weilin Shen, Zihao Wen, Tianke Ban},
-      year={2025},
-      url={https://arxiv.org/abs/2510.10072}
+  title={Unilaw-r1: A large language model for legal reasoning with reinforcement learning and iterative inference},
+  author={Cai, Hua and Zhao, Shuang and Zhang, Liang and Shen, Xuli and Xu, Qing and Shen, Weilin and Wen, Zihao and Ban, Tianke},
+  booktitle={Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing},
+  pages={18128--18142},
+  year={2025}
 }
 ```
