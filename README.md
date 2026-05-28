@@ -24,10 +24,15 @@ pip install -r requirements.txt
     Additionally, the following two evaluation datasets are used:  
     - [LawBench](https://github.com/open-compass/LawBench)  
     - [LexEval](https://github.com/cshaitao/lexeval)
+
+### checkpoint
+We have open-sourced the **Unilaw-R1** model weights to facilitate research and application in legal reasoning. The released the model weights of **Unilaw-R1** for academic exploration only.  
+**This is a low‑cost, low‑parameter baseline model, not a production‑grade legal system.** 
+The weights are available for download from [Baidu Netdisk](https://pan.baidu.com/s/1V-lh4AnRsN7zuHuOtaUraw) (passcode: **3521**).   
+
 ### To-Do (Coming Soon ~)
  - release inference code.
  - release training code.
- - release checkpoints.
 
 ## Citation
 If you find our work useful for your research, please kindly cite our paper as follows:
